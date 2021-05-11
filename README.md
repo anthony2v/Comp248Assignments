@@ -1,5 +1,5 @@
 # Comp248Assignments
-All the assignments that Anthony completed while taking the course Object-Oriented Programming I.
+All the assignments that Anthony completed while taking the course Object-Oriented Programming I in Fall 2018.
 
 ## Assignment 1
 ### Question 1: Design Display
